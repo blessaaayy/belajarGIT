@@ -7,3 +7,9 @@ Daftar tugas / branch
 5. Tugas-midProject
 6. Tugas-php
 7. Tugas-finalProject
+
+git branch Tugas-
+git add Tugas-
+git commit -m "menambahkan file Tugas- .txt"
+git merge Tugas-git
+git push -u origin Tugas-git
